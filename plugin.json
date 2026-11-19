@@ -1,0 +1,26 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "box",
+  "displayName": "Box",
+  "version": "1.0.0",
+  "description": "Search and organize Box content through the Box MCP server, and run legal intake, contract, and M&A workflows.",
+  "author": {
+    "name": "Box",
+    "url": "https://www.box.com/"
+  },
+  "homepage": "https://developer.box.com/",
+  "license": "MIT",
+  "keywords": [
+    "box",
+    "box-mcp",
+    "box-ai",
+    "content-management",
+    "legal"
+  ],
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Find the latest vendor agreement in my Box files.",
+    "Compare the contracts in my Box folder and summarize their differences.",
+    "Check this intake submission against our firm requirements."
+  ]
+}
